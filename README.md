@@ -2,6 +2,8 @@
 
 This repository contains the implementation of an Intrusion Detection System (IDS) leveraging Big Data technologies and machine learning techniques to detect network intrusions effectively.
 
+<img width="824" alt="architecture (1)" src="https://github.com/user-attachments/assets/2fe63f9c-0918-4cc1-b8a9-65b40b84a0e4">
+
 ## Overview
 
 Our IDS solution utilizes deep learning models to analyze network traffic and identify potential threats in real-time. By harnessing the power of Big Data, the system can process and analyze large volumes of network data efficiently using KDD Cup data set.
