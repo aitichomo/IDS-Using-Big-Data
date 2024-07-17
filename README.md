@@ -27,6 +27,12 @@ Our IDS solution utilizes deep learning models to analyze network traffic and id
 - Matplotlib
 - Spark
 
+### Install requirements
+```
+pip install -r requirements.txt
+
+```
+
 # Commands to Execute Real-Time System Operations
 ## Start zookeeper. 
 Kafka server needs this one. It will run on localhost, port 2181
