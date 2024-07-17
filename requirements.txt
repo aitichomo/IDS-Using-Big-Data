@@ -1,0 +1,15 @@
+# Basic Python libraries
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# Deep Learning frameworks
+tensorflow
+keras
+
+# Apache Kafka for data streaming
+confluent-kafka
+
+# Spark for distributed processing
+pyspark
